@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        Console.Clear();
         var rocketInfo = new RocketInfo();
         rocketInfo.GetNames();
         var choice = 0;

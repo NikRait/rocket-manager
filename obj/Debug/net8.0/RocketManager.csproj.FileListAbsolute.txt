@@ -140,3 +140,4 @@
 /home/nikrait/RiderProjects/RocketManager/obj/Debug/net8.0/RocketManager.pdb
 /home/nikrait/RiderProjects/RocketManager/obj/Debug/net8.0/RocketManager.genruntimeconfig.cache
 /home/nikrait/RiderProjects/RocketManager/obj/Debug/net8.0/ref/RocketManager.dll
+/home/nikrait/RiderProjects/RocketManager/obj/Debug/net8.0/RocketManager.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RocketManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1104230ede15b65267566f0e4b2a902a9264c778")]
 [assembly: System.Reflection.AssemblyProductAttribute("RocketManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RocketManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
